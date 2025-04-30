@@ -3,7 +3,7 @@
 
 <div align="center">
   <ul style="list-style: none; padding: 0;">
-    <li>🔭 I have experience in languages <strong>JavaScript, MongoDB, ReactJS, NodeJS, and ExpressJS</strong>.</li>
+    <li>🔭 I have experience in <strong>JavaScript, MongoDB, ReactJS, NodeJS, and ExpressJS</strong>.</li>
     <li>👯 I’m looking to work on <strong>web development and DevOps</strong>.</li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/Fearce02?tab=repositories" target="_blank">GitHub Repositories</a>.</li>
     <li>💬 Ask me about <strong>JavaScript, ReactJS, NodeJS, and ExpressJS</strong>.</li>
